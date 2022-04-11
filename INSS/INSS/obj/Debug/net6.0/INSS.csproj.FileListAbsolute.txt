@@ -1,0 +1,15 @@
+/home/familia/projetos/INSS/INSS/bin/Debug/net6.0/INSS
+/home/familia/projetos/INSS/INSS/bin/Debug/net6.0/INSS.deps.json
+/home/familia/projetos/INSS/INSS/bin/Debug/net6.0/INSS.runtimeconfig.json
+/home/familia/projetos/INSS/INSS/bin/Debug/net6.0/INSS.dll
+/home/familia/projetos/INSS/INSS/bin/Debug/net6.0/INSS.pdb
+/home/familia/projetos/INSS/INSS/obj/Debug/net6.0/INSS.csproj.AssemblyReference.cache
+/home/familia/projetos/INSS/INSS/obj/Debug/net6.0/INSS.GeneratedMSBuildEditorConfig.editorconfig
+/home/familia/projetos/INSS/INSS/obj/Debug/net6.0/INSS.AssemblyInfoInputs.cache
+/home/familia/projetos/INSS/INSS/obj/Debug/net6.0/INSS.AssemblyInfo.cs
+/home/familia/projetos/INSS/INSS/obj/Debug/net6.0/INSS.csproj.CoreCompileInputs.cache
+/home/familia/projetos/INSS/INSS/obj/Debug/net6.0/INSS.dll
+/home/familia/projetos/INSS/INSS/obj/Debug/net6.0/refint/INSS.dll
+/home/familia/projetos/INSS/INSS/obj/Debug/net6.0/INSS.pdb
+/home/familia/projetos/INSS/INSS/obj/Debug/net6.0/INSS.genruntimeconfig.cache
+/home/familia/projetos/INSS/INSS/obj/Debug/net6.0/ref/INSS.dll
